@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tours>
+    <tour>
+        <id>1</id>
+        <name>Отдых в Турции</name>
+        <country>Турция</country>
+        <city>Анталия</city>
+        <price>850.00</price>
+        <duration>7</duration>
+        <hotel>Luxury Resort 5*</hotel>
+        <type>Пляжный отдых</type>
+        <availableSpots>15</availableSpots>
+        <rating>4.8</rating>
+    </tour>
+    <tour>
+        <id>2</id>
+        <name>Горнолыжный курорт</name>
+        <country>Австрия</country>
+        <city>Инсбрук</city>
+        <price>1200.00</price>
+        <duration>5</duration>
+        <hotel>Alpine Hotel 4*</hotel>
+        <type>Горные лыжи</type>
+        <availableSpots>8</availableSpots>
+        <rating>4.9</rating>
+    </tour>
+    <tour>
+        <id>3</id>
+        <name>Экскурсия по Италии</name>
+        <country>Италия</country>
+        <city>Рим</city>
+        <price>950.00</price>
+        <duration>6</duration>
+        <hotel>Central Hotel 3*</hotel>
+        <type>Экскурсионный</type>
+        <availableSpots>12</availableSpots>
+        <rating>4.7</rating>
+    </tour>
+    <tour>
+        <id>4</id>
+        <name>Отдых в Греции</name>
+        <country>Греция</country>
+        <city>Крит</city>
+        <price>780.00</price>
+        <duration>7</duration>
+        <hotel>Sea View Resort 4*</hotel>
+        <type>Пляжный отдых</type>
+        <availableSpots>20</availableSpots>
+        <rating>4.6</rating>
+    </tour>
+    <tour>
+        <id>5</id>
+        <name>Горный треккинг</name>
+        <country>Швейцария</country>
+        <city>Интерлакен</city>
+        <price>1500.00</price>
+        <duration>8</duration>
+        <hotel>Mountain Lodge</hotel>
+        <type>Активный отдых</type>
+        <availableSpots>6</availableSpots>
+        <rating>4.9</rating>
+    </tour>
+    <tour>
+        <id>6</id>
+        <name>Парижский уикенд</name>
+        <country>Франция</country>
+        <city>Париж</city>
+        <price>650.00</price>
+        <duration>3</duration>
+        <hotel>City Hotel 4*</hotel>
+        <type>Городской тур</type>
+        <availableSpots>10</availableSpots>
+        <rating>4.5</rating>
+    </tour>
+</tours>
